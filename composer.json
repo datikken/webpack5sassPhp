@@ -1,0 +1,18 @@
+{
+    "name": "datikken/evo_spb",
+    "autoload": {
+        "psr-4": {
+            "Datikken\\EvoSpb\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Datikken",
+            "email": "shadybekov@cointelegraph.com"
+        }
+    ],
+    "require": {
+        "symfony/asset": "^7.0",
+        "twig/twig": "^3.0"
+    }
+}
