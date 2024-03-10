@@ -59,7 +59,7 @@ const config = {
         alias: {
             "@": path.resolve(__dirname, './src/js'),
         },
-        extensions: ['.tsx', '.ts', '.jsx', '.js', '...'],
+        extensions: ['.jsx', '.js', '...'],
     },
 };
 
